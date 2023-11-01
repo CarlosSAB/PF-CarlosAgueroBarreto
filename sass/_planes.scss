@@ -1,0 +1,94 @@
+
+
+#cardContainer{
+
+    border-radius: 10px;
+    overflow: hidden;
+    padding:0 !important;
+
+
+;
+
+    #cardTitle{
+
+        line-height: 1.7rem;
+        background-color:rgb(107, 9, 199) !important;
+        
+        #cardTitle1{
+            font-size:1.7rem;
+        }
+        #cardTitle2{
+            font-size:0.9rem;
+        }
+    }
+
+    #priceContainer{
+        background-color:White;
+        h1{
+            font-size:3rem;
+            
+        }
+    }
+    #cardSubtitle{
+        background-color:white;
+    }
+    #footerCard{
+        background-color:white;
+    }
+}
+
+#cardContainer-recommended{
+
+    border-radius: 10px;
+    overflow: hidden;
+    padding:0 !important;
+    #cardTitle{
+        background-color:rgb(107, 9, 199) !important;
+        width: 100%;
+        line-height: 1.7rem;
+        #cardTitle1{
+            font-size:1.7rem;
+        }
+        #cardTitle2{
+            font-size:0.9rem;
+        }
+    }
+
+    #priceContainer{
+        background-color:White;
+        h1{
+            font-size:3rem;
+            
+        }
+    }
+    #cardSubtitle{
+        background-color:white;
+    }
+    #footerCard{
+        background-color:white;
+    }
+    
+}
+
+#cabeceraCard{
+    background-color: rgb(79, 0, 153) !important;
+}
+
+
+#cabeceraCard{
+    background-color: rgb(1, 104, 54);
+}
+#cardBoton{
+    border-color:rgb(79, 0, 153) !important;
+    color:rgb(79, 0, 153) !important;
+}
+#cardBoton:hover{
+    background-color:rgb(79, 0, 153) !important;
+    color:white !important;
+}
+
+#footerCard{
+
+    font-size:12px;
+}
+
